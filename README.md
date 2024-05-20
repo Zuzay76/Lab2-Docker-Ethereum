@@ -1,7 +1,6 @@
-# Lab2-Docker-Ethereum
-Bahar Gurel
+MIT License
+# docker-ethereum
+Ethereum DAPP will run inside the docker container.
 
-101536463
-
-1wv12t174idu7sahwzqkw12mk
-
+Follow the below link for the explanation  
+https://medium.com/@shubhamchadokar04/create-an-ethereum-dapp-with-react-and-docker-211223005f17
